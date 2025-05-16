@@ -18,11 +18,10 @@ GET으로 localhost:3000/db로 접속 하여 GET을 통해 전체 user 데이터
 
 | 과정 단계  | 스크린샷                                                       
 | ---------- | --------------------------------------                        
-| DB 생성    | ![Image](https://github.com/user-attachments/assets/30328606-2dd9-40b6-b0df-68b69b73de0b)               
-| Table 생성 | ![Image](https://github.com/user-attachments/assets/6022a8a7-357f-47de-894f-34ac6e5ea257)       
-| POST 요청  | ![Image](https://github.com/user-attachments/assets/88479e43-8d66-48bd-82e1-276748c46cf2) 
-| GET 요청   | ![get_request]![Image](https://github.com/user-attachments/assets/07e30752-a257-4a30-9941-d8f2cf1a1320)   
-
+| DB 생성    | [DB make]![Image](https://github.com/user-attachments/assets/30328606-2dd9-40b6-b0df-68b69b73de0b)               
+| Table 생성 | [table_make]![Image](https://github.com/user-attachments/assets/6022a8a7-357f-47de-894f-34ac6e5ea257)       
+| POST 요청  | [post_request]![Image](https://github.com/user-attachments/assets/88479e43-8d66-48bd-82e1-276748c46cf2) 
+| GET 요청   | [get_request]![Image](https://github.com/user-attachments/assets/50b1de7c-7540-4262-982b-af20fd4e6fa6)
 
 ### 전체 요약
 MySQL에서 HanJin 데이터베이스와 USER 테이블 생성.
