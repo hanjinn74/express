@@ -16,12 +16,12 @@ Visual studio code에 app.post, app.get 등의 코드를 작성 후, POSTMAN에�
 ### 4. localhost:3000/db로 접속 후, user 데이터 확인
 GET으로 localhost:3000/db로 접속 하여 GET을 통해 전체 user 데이터를 확인한다.
 
-| 과정 단계  | 스크린샷                                                       |
-| ---------- | --------------------------------------                        |
-| DB 생성    | ![db_make]("C:\Users\나한진\Desktop\dbmake.png")               |
-| Table 생성 | ![table_make]("C:\Users\나한진\Desktop\postmanmake.png")       |
-| POST 요청  | ![postman_request]("C:\Users\나한진\Desktop\postrequest.png")  |
-| GET 요청   | ![get_request]("C:\Users\나한진\Desktop\getrequest.png".png)   |
+| 과정 단계  | 스크린샷                                                       
+| ---------- | --------------------------------------                        
+| DB 생성    | ![Image](https://github.com/user-attachments/assets/30328606-2dd9-40b6-b0df-68b69b73de0b)               
+| Table 생성 | ![Image](https://github.com/user-attachments/assets/6022a8a7-357f-47de-894f-34ac6e5ea257)       
+| POST 요청  | ![Image](https://github.com/user-attachments/assets/88479e43-8d66-48bd-82e1-276748c46cf2) 
+| GET 요청   | ![get_request]![Image](https://github.com/user-attachments/assets/07e30752-a257-4a30-9941-d8f2cf1a1320)   
 
 
 ### 전체 요약
