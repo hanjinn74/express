@@ -18,7 +18,7 @@ GET으로 localhost:3000/db로 접속 하여 GET을 통해 전체 user 데이터
 
 | 과정 단계  | 스크린샷                               |
 | ---------- | -------------------------------------- |
-| DB 생성    | ![db_make](./images/dbmake.png)        |
+| DB 생성    | ![db_make]("C:\Users\나한진\Desktop\dbmake.png")        |
 | Table 생성 | ![table_make](./images/postmanmake.png) |
 | POST 요청  | ![postman_request](./images/postrequest.png)  |
 | GET 요청   | ![db_request](./images/getrequest.png)          |
